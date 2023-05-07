@@ -1,0 +1,6 @@
+48fee91722be98a36afc61f68658f726d951b5c3a32efe945ccc7733f17062c6  boot-5.15.110-HassBox.tar.gz
+7354d5057138de3ce78b320f0f8739589c3a454240ba1f7cfe31b821f955bffc  dtb-allwinner-5.15.110-HassBox.tar.gz
+fc271a5c820c2b7c159a1d9229e68f1773bc14a3ab1a36d91c5312eaa1d5fce2  dtb-amlogic-5.15.110-HassBox.tar.gz
+9a9d0103941998a70878318fbdba999236abec4aa406e6323c083d0fc284b2f2  dtb-rockchip-5.15.110-HassBox.tar.gz
+87ffeaf91b676d8cf1d394ff5f9a930af3b14dde098bb9503efee9abc15cd695  header-5.15.110-HassBox.tar.gz
+00b7b79238dfbecfa09dfea89f8899a83e75fed2898d89dd3c84c736333cbe4f  modules-5.15.110-HassBox.tar.gz
